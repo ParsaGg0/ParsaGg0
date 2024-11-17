@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @ParsaGg0
-- 👀 I’m interested in .Programing
-- 🌱 I’m currently learning ..pthon.
+- 👀 I’m interested in . PROGRAMING 👨‍💻
+- 🌱 I’m currently learning ..Python (👨‍💻_💻)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me 
+Instagram ACCOUNT:@Parsa Booghy 🤖
+Telegram ACCOUNT:@PARSAgggamer 😜
+- 😄 Pronouns: .Suoooo 😁..
 - ⚡ Fun fact: ...
 
 <!---
