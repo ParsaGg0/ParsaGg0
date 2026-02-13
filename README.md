@@ -1,14 +1,32 @@
-- 👋 Hi, I’m @ParsaGg0
-- 👀 I’m interested in :PROGRAMING 👨‍💻 and Computer Sciense and Technology and Gaming 🎮
-- 🌱 I’m currently learning :Python Programing (👨‍💻_💻)
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-Instagram ACCOUNT:@Parsa Booghy 🤖
-Telegram ACCOUNT:@PARSAgggamer 😜
-- 😄 Pronouns: Suoooo 😁
-- ⚡ Fun fact: 
+## Hi, I'm Parsa 👋
 
-<!---
-ParsaGg0/ParsaGg0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI Researcher & Software Engineering Student  
+Focused on building intelligent, data-driven systems.
+
+🧠 Python • Machine Learning • Networks  
+🎓 Software Engineering @ Islamic Azad University  
+🎙 Guest on Iran Digital  
+
+---
+
+### 🚀 Featured Projects
+- **AI Vehicle Diagnostic System**  
+  Intelligent fault detection using ML pipelines and Python
+
+- **Network Automation Toolkit**  
+  Automating Cisco configurations with Python
+
+---
+
+### 🛠 Skills
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![ML](https://img.shields.io/badge/Machine%20Learning-orange)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
+![Linux](https://img.shields.io/badge/Linux-gray?logo=linux)
+![SQL](https://img.shields.io/badge/SQL-blue)
+
+---
+
+### 🔗 Links
+- 🌐 Website: https://parsa-ai.b12sites.com
+- 💼 LinkedIn: https://linkedin.com/in/parsa-heidari-882ab22bb
