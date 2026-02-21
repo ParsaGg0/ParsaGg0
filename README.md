@@ -30,3 +30,6 @@ Focused on building intelligent, data-driven systems.
 ### 🔗 Links
 - 🌐 Website: https://parsa-ai.b12sites.com
 - 💼 LinkedIn: https://linkedin.com/in/parsa-heidari-882ab22bb
+-My Program In Television 📺 :https://telewebion.com/episode/0x1553d0d1
+-My Instagram channel🔦 :https://www.instagram.com/par3a1385_007/
+-My Telegram Channzl:t.me/PARSAgggamer
