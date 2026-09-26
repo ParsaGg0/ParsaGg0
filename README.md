@@ -1,35 +1,87 @@
-## Hi, I'm Parsa 👋
+# Hi, I'm Parsa 👋
 
-AI Researcher & Software Engineering Student  
-Focused on building intelligent, data-driven systems.
+### Software Engineering Student | Python • AI • Software Development
 
-🧠 Python • Machine Learning • Networks  
-🎓 Software Engineering @ Islamic Azad University  
-🎙 Guest on Iran Digital  
+I'm a Software Engineering student interested in **Python, Artificial Intelligence, software development, and problem solving**.
 
----
+I learn by building — from small programming exercises to practical projects and experiments.
 
-### 🚀 Featured Projects
-- **AI Vehicle Diagnostic System**  
-  Intelligent fault detection using ML pipelines and Python
+🧠 Curious Mind  
+🛠️ Builder  
+🐍 Python Enthusiast  
+🤖 AI Explorer  
 
-- **Network Automation Toolkit**  
-  Automating Cisco configurations with Python
+> **Learn → Build → Improve → Repeat.**
 
 ---
 
-### 🛠 Skills
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![ML](https://img.shields.io/badge/Machine%20Learning-orange)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![Linux](https://img.shields.io/badge/Linux-gray?logo=linux)
-![SQL](https://img.shields.io/badge/SQL-blue)
+## 🚀 Featured Projects
+
+### 🤖 AI Vehicle Diagnostic System
+Exploring intelligent vehicle fault detection and diagnostics using **Python, machine learning, and AI-based approaches**.
+
+### 🌐 Network Automation Toolkit
+A Python-based project for automating repetitive **network configuration tasks** and working with network-related workflows.
+
+### 🎮 Tic-Tac-Toe — Python
+A console-based game built to practice **Python fundamentals, game logic, functions, loops, and problem solving**.
 
 ---
 
-### 🔗 Links
-- 🌐 Website: https://parsa-ai.b12sites.com
-- 💼 LinkedIn: https://linkedin.com/in/parsa-heidari-882ab22bb
--My Program In Television 📺 :https://telewebion.com/episode/0x1553d0d1
--My Instagram channel🔦 :https://www.instagram.com/par3a1385_007/
--My Telegram Channzl:t.me/PARSAgggamer
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C#
+
+**AI & Data**
+- Machine Learning
+- AI / Prompt Engineering
+
+**Development**
+- Git
+- GitHub
+- SQL
+- Linux
+
+**Other**
+- Networking
+- Web Development
+
+---
+
+## 📚 Learning Focus
+
+Currently focused on improving my skills in:
+
+- Python & software development
+- Artificial Intelligence & Machine Learning
+- Problem solving & algorithmic thinking
+- Building real-world projects
+- Software engineering fundamentals
+
+---
+
+## 🎯 My Approach
+
+I don't believe learning is just about collecting certificates or knowing syntax.
+
+For me:
+
+**Think → Build → Break → Learn → Improve**
+
+Every project is another step toward becoming a better engineer.
+
+### 🧠 + 🫀 = Me
+
+**Think with purpose. Build with passion.**
+
+---
+
+## 🔗 Connect With Me
+
+- 🌐 Portfolio & All Links: https://linktr.ee/parsa57
+- 💼 LinkedIn: https://www.linkedin.com/in/parsa-heidary/
+- 📺 Media Appearance: https://telewebion.ir/episode/0x1553d0d1
+- 📸 Instagram: https://www.instagram.com/par3a1385_007/
+- 💬 Telegram: https://t.me/Par3a_Tech
